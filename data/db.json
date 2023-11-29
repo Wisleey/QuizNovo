@@ -1,0 +1,87 @@
+{
+    "Quiz": [
+        {
+          "id": 1,
+          "questao": "O que é Front-End ?",
+          "alternativas": [
+            "(A) Uma linguagem de programação",
+            "(B) E a parte visual de um site",
+            "(C) Um banco de dados",
+            "(D) Uma linguagem de script"
+          ],
+          "respostasCorretas": [1]
+        },
+        {
+          "id": 2,
+          "questao": "O CSS é usado para?",
+          "alternativas": [
+            "(A) Estilizar páginas da web",
+            "(B) Manipular bancos de dados",
+            "(C) Criar elementos HTML",
+            "(D) Lidar com lógica do servidor"
+          ],
+          "respostasCorretas": [0]
+        },
+        {
+          "id": 3,
+          "questao": "O que é JavaScript?",
+          "alternativas": [
+            "(A) JavaScript é um framework",
+            "(B) JavaScript é uma linguagem de marcação",
+            "(C) JavaScript é uma linguagem de programação",
+            "(D) JavaScript é uma linguagem de banco de dados"
+          ],
+          "respostasCorretas": [2]
+        },
+        {
+          "id": 4,
+          "questao": "O que é React?",
+          "alternativas": [
+            "(A) JavaScript é um framework",
+            "(B) React é uma biblioteca JavaScript",
+            "(C) React é uma linguagem de marcação",
+            "(D) React é a Reação do Clientes"
+          ],
+          "respostasCorretas": [1]
+        },
+        {
+          "id": 5,
+          "questao": "O que são props em React?",
+          "alternativas": [
+            "(A) Props é uma linguagem de programação",
+            "(B) Props é um framework",
+            "(C) Props são as propriedades dos componentes",
+            "(D) Props é um sistema operacional"
+          ],
+          "respostasCorretas": [2]
+        },
+        {
+          "id": 6,
+          "questao": "Gostou do nosso quiz ?",
+          "alternativas": ["Sim", "Não"],
+          "respostasCorretas": [0, 1]
+        }
+      ],
+    
+
+    "Alunos": [
+        {
+            "matricula":1,
+            "Nome":  "Wisley" ,
+            "Curso": "sistemas para internet"
+        },
+        {
+            "matricula":2,
+            "Nome":  "Andre" ,
+            "Curso": "sistemas para internet"
+        },
+        {
+            "matricula":3,
+            "Nome":  "Joâo" ,
+            "Curso": "sistemas para internet"
+        }
+    
+    
+    ]
+
+}
